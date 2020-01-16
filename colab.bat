@@ -1,0 +1,1 @@
+conda activate colab && jupyter notebook --NotebookApp.allow_origin='https://colab.research.google.com' --port=8888 --NotebookApp.token=c8de56fa4deed24899803e93c227592aef6538f93025fe01 --NotebookApp.port_retries=0 --no-browser
